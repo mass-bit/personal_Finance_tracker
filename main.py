@@ -17,4 +17,4 @@ class CSV:
             df.to_csv(cls.CSV_file, index=False)
 
 CSV.initialize_csv()
-# just for check
+# just for test
